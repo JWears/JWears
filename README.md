@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JWears
 - 👀 I’m interested in ... computer science, psychology, philosophy and sports
-- 🌱 I’m currently learning ... math, Data analytics, Mobile development and Website development.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... Web development
+- 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ...
 
 <!---
